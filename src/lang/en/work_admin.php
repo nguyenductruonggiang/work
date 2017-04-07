@@ -2,88 +2,6 @@
 
 return [
 
-    /***************************************************************************
-     * PAGE TITLE
-     */
-    'page_list_testimonial' => 'Trang quản trị testimonial',
-    'page_',
-    'page_',
-    'page_',
-    'page_',
-    'page_',
-    'page_',
-    'page_',
-    'page_',
-    'page_',
-    'page_',
-    'page_',
-    /**************************************************************************/
-
-    /***************************************************************************
-     * SIDEBAR
-     */
-    'sidebar_',
-    'sidebar_',
-    'sidebar_',
-    'sidebar_',
-    'sidebar_',
-    'sidebar_',
-    'sidebar_',
-    'sidebar_',
-    'sidebar_',
-    'sidebar_',
-    /**************************************************************************/
-
-    /***************************************************************************
-     * SEARCH
-     */
-    'search_',
-    'search_',
-    'search_',
-    'search_',
-    'search_',
-    'search_',
-    'search_',
-    'search_',
-    'search_',
-    'search_',
-    'search_',
-    /**************************************************************************/
-
-
-
-    /***************************************************************************
-     * MESSAGE
-     */
-    'message_',
-    'message_',
-    'message_',
-    'message_',
-    'message_',
-    'message_',
-    'message_',
-    'message_',
-    'message_',
-    'message_',
-    'message_',
-    /**************************************************************************/
-
-
-    /***************************************************************************
-     * FIELDS
-     */
-    'field_work_name' => 'Tên công việc',
-    'field_',
-    'field_',
-    'field_',
-    'field_',
-    'field_',
-    'field_',
-    'field_',
-    'field_',
-    'field_',
-    /**************************************************************************/
-
     "package_name" => 'Work',
     "package_description" => 'Work package is for initial',
     "order" => '#',
@@ -145,5 +63,5 @@ return [
     'page_category_list' => 'Categories',
     'work_category_add_button' => 'Add new work category',
     'work_categoty_id' => 'Category ID',
-    'work_categoty_name' => 'Category name',
+    'work_categoty_name' => 'Category name',    
 ];

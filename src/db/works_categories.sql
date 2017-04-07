@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 07, 2017 at 06:03 AM
+-- Generation Time: Apr 07, 2017 at 08:58 AM
 -- Server version: 5.7.14
 -- PHP Version: 5.6.25
 
@@ -38,8 +38,9 @@ CREATE TABLE `works_categories` (
 
 INSERT INTO `works_categories` (`work_category_id`, `work_category_name`) VALUES
 (1, '<p>Truong Giang</p>'),
-(2, '<p><span style="color: #666666; font-family: \'Helvetica Neue\', Helvetica, Arial, sans-serif;">Nguyễn Văn A</span></p>'),
-(3, '<p><span style="color: #666666; font-family: \'Helvetica Neue\', Helvetica, Arial, sans-serif;">Nguyễn Thị B</span></p>');
+(3, '<p><span style="color: #666666; font-family: \'Helvetica Neue\', Helvetica, Arial, sans-serif;">Nguyễn Thị B</span></p>'),
+(4, '<p>L&ecirc; Huy Bảo</p>'),
+(5, '<p>Nguyễn Văn A</p>');
 
 --
 -- Indexes for dumped tables
@@ -59,7 +60,7 @@ ALTER TABLE `works_categories`
 -- AUTO_INCREMENT for table `works_categories`
 --
 ALTER TABLE `works_categories`
-  MODIFY `work_category_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `work_category_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
